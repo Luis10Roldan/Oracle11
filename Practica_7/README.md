@@ -1,3 +1,4 @@
-# Practica 7
+# Practicas Manual Oracle
+
 Oracle 11G
 
